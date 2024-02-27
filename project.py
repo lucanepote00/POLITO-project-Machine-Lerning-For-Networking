@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 10 16:15:13 2023
 
-@author: LUCA
+@author: Luca Nepote, Andrea Cuzzi
 """
 
 import matplotlib.pyplot as plt
